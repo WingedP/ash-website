@@ -1,0 +1,29 @@
+[
+  {
+    "position": "Web developer (Jr. front-end)",
+    "company": "BRICKMATE GROUP VIETNAM (BGM)",
+    "link": "https://www.brickmate.net",
+    "time": "08/2020 - present",
+    "jobs": [
+      "Outsource services. Collaborate with team to build 3 projects with Angular, Angular/Ionic for Korean clients.",
+      "Adapt designs & flow in figma, adobe XD to applications.",
+      "Negotiating directly with client to come up with best solutions."
+    ]
+  },
+  {
+    "position": "Coderschool alumni",
+    "company": "CODERSCHOOL (CDS)",
+    "link": "https://www.coderschool.vn/en/",
+    "time": "03/2020 - 06/2020",
+    "jobs": [
+      "Study programming basics and web development by making personal projects."
+    ]
+  },
+  {
+    "position": "",
+    "company": "",
+    "link": "",
+    "time": "before - 02/2020",
+    "jobs": ["Translator/interpreter (EN), 3D animator, freelancer."]
+  }
+]

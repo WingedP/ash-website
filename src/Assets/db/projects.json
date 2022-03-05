@@ -1,0 +1,221 @@
+[
+  {
+    "name": "PuppyRed",
+    "path": "pj_puppyred",
+    "thumbnail": "https://drscdn.500px.org/photo/1044746435/q%3D80_m%3D1000/v2?sig=5d384cfcc88bfda99863b980ab05d89462a02730879081515613370231c96a01",
+    "links": ["", ""],
+    "id": 1,
+    "type": "mobile",
+    "stacks": [
+      { "color": "red", "name": "Angular 8+" },
+      { "color": "orange", "name": "Angular Material" },
+      { "color": "cyan", "name": "Ionic 5" }
+    ],
+    "desc": {
+      "about": [
+        "About",
+        "An Instagram-like webview for Unity game app. User can add friends, join clans, write posts with #hashtag, upload pictures/videos, comment, reply, create poll and vote within duration. Video uploaded can also be cropped."
+      ],
+      "techstack": [
+        "Tech stacks",
+        "Ionic/Angular for front-end, Angular for admin's web, PHP/Laravel, MySQL for back-end, AWS (EC2, S3) for hosting services"
+      ],
+      "teamsize": ["Team's size", "VN team: 3 FE, 2 BE / KR team: 1+ (?) BE"],
+      "myposition": ["My position", "Web developer (front-end)"],
+      "responsibilities": [
+        "Responsibilities",
+        [
+          "Communicate with PM & Korean client",
+          "Test & integrate back-end API (VN & KR)",
+          "Adapt Adobe XD & Figma's design, workflows into application UX/UI",
+          "Develop & add features according to client's requirement, build & deploy webview"
+        ]
+      ]
+    },
+    "images": [
+      "https://drscdn.500px.org/photo/1044746432/q%3D80_m%3D1000/v2?sig=e00e1080a4962fb612e6e81c31478bf6cc32b8583f80f626950dc4ae8e4ccd89",
+      "https://drscdn.500px.org/photo/1044746433/q%3D80_m%3D1000/v2?sig=1bf4fa0d5a790c480ee3c794ec7f83ea002298caf6367a8e351346e6b430b1f8",
+      "https://drscdn.500px.org/photo/1044746434/q%3D80_m%3D1000/v2?sig=fd3865c38ae85f120b8c43827758c05a5814f3e166066cc8c1eb15046553cbd6",
+      "https://drscdn.500px.org/photo/1044746435/q%3D80_m%3D1000/v2?sig=5d384cfcc88bfda99863b980ab05d89462a02730879081515613370231c96a01",
+      "https://drscdn.500px.org/photo/1044746436/q%3D80_m%3D1000/v2?sig=c0e7e5994749554ad59a6a402748e412d0f407bb7584cd8cec19f5368c2918ea",
+      "https://drscdn.500px.org/photo/1044746437/q%3D80_m%3D1000/v2?sig=3ec42955696b46c1fe8aca689a5df7f372d11e7ee54132a6193e5673f4731f90",
+      "https://drscdn.500px.org/photo/1044746439/q%3D80_m%3D1000/v2?sig=fba4ec1357ad717e1f4f1329a9f426761f11a357c86a6a009566b208e6fa9208",
+      "https://drscdn.500px.org/photo/1044746440/q%3D80_m%3D1000/v2?sig=7f06cf6e540dd2b5d27b4111db257d62758fbafd66279da621bf68ffaeb562ce",
+      "https://drscdn.500px.org/photo/1044746441/q%3D80_m%3D1000/v2?sig=9116e4b32e15493f599efeda92e5e7bb8e12a291b14c47db6f90eed9c4ffac74",
+      "https://drscdn.500px.org/photo/1044746442/q%3D80_m%3D1000/v2?sig=785c637f75215ac080482292492bb12f676ca06412f81999e283032c0a4c292c",
+      "https://drscdn.500px.org/photo/1044746443/q%3D80_m%3D1000/v2?sig=69c23eba84595b66617e5f8a55ac15b8574a315d898895e17c07f3ff6d1cf199",
+      "https://drscdn.500px.org/photo/1044746444/q%3D80_m%3D1000/v2?sig=2bb8803b286fcfc374541c15cd554ac4552f92f87ed67526d35678ec02524bb3",
+      "https://drscdn.500px.org/photo/1044746445/q%3D80_m%3D1000/v2?sig=f06c33950a331f7d124e65d134d658291133034ecbdd56693f54311551c4af69"
+    ]
+  },
+
+  {
+    "name": "Eltov",
+    "path": "pj_eltov",
+    "thumbnail": "https://drscdn.500px.org/photo/1044749377/q%3D80_m%3D1000/v2?sig=6e75cbca389cb0e9e182edd636bc97283e6efd386787006b1763f06e21882327",
+    "links": ["", ""],
+    "id": 2,
+    "type": "mobile",
+    "stacks": [{ "color": "red", "name": "Angular 8+" }],
+    "desc": {
+      "about": [
+        "About",
+        "This is a navigation map for a Singapore's market/mall. User can view locations and get directions with map. User can also take selfies, add stickers & drawings, then download the edited selfie to their own phone with QR codes."
+      ],
+      "techstack": ["Tech stacks", "Angular for front-end"],
+      "teamsize": ["Team's size", "VN team: 2 / KR team: 1+ (?) BE"],
+      "myposition": ["My position", "Web developer (front-end)"],
+      "responsibilities": [
+        "Responsibilities",
+        [
+          "Communicate with PM & Korean client",
+          "Test & integrate back-end API (VN & KR)",
+          "Adapt Zeplin's design, workflows into application UX/UI",
+          "Develop & add features according to client's requirement"
+        ]
+      ]
+    },
+    "images": [
+      "https://drscdn.500px.org/photo/1044749375/q%3D80_m%3D1000/v2?sig=b8a38d127544eb1832e186835c0ad575a6cd910408aa940528f83f21c4badbec",
+      "https://drscdn.500px.org/photo/1044749377/q%3D80_m%3D1000/v2?sig=6e75cbca389cb0e9e182edd636bc97283e6efd386787006b1763f06e21882327",
+      "https://drscdn.500px.org/photo/1044749379/q%3D80_m%3D1000/v2?sig=7562e3d069e05406e584a3bfafc868fc1193612219d5d7ee2335afd631bba369",
+      "https://drscdn.500px.org/photo/1044749385/q%3D80_m%3D1000/v2?sig=f32250dce17a09ca23d2f2f6af05b02b6c76601fe311b6998587962d77863f60",
+      "https://drscdn.500px.org/photo/1044749378/q%3D80_m%3D1000/v2?sig=6af82a1490234490f22f0a08c74fd201b8b7a22a486dc6934fb08a69c05d0ae5",
+      "https://drscdn.500px.org/photo/1044749376/q%3D80_m%3D1000/v2?sig=a8bcb888e13749cf7d1f22e5d116252545076cb7ce4dd4e13648b6c601470d37",
+      "https://drscdn.500px.org/photo/1044749386/q%3D80_m%3D1000/v2?sig=39da680cba0285900fe4a9fc23321ba32d74fbd335fc270919c211e549544de6",
+      "https://drscdn.500px.org/photo/1044749374/q%3D80_m%3D1000/v2?sig=dee6eff468ea4f7f42ffcddb1a0d38440c47c3850aeaba810332d0576120494f"
+    ]
+  },
+
+  {
+    "name": "Rscoding",
+    "path": "pj_rscoding",
+    "thumbnail": "",
+    "links": ["", ""],
+    "id": 3,
+    "type": "web",
+    "stacks": [{ "color": "red", "name": "Angular 8+" }],
+    "desc": {
+      "about": [
+        "About",
+        "A website for a software festival in Korea. Admin can manage classes, events. Viewer can check, search, and filter class/event with timetable"
+      ],
+      "techstack": ["Tech stacks", "Angular for front-end"],
+      "teamsize": ["Team's size", "VN team: 3"],
+      "myposition": ["My position", "Web developer (front-end)"],
+      "responsibilities": [
+        "Responsibilities",
+        [
+          "Communicate with PM & Korean client",
+          "Test & integrate back-end API",
+          "Adapt Zeplin's design, workflows into application's UX/UI",
+          "Develop & add features according to client's requirement"
+        ]
+      ]
+    },
+    "images": []
+  },
+
+  {
+    "name": "Openword",
+    "path": "pj_openword",
+    "thumbnail": "https://drscdn.500px.org/photo/1044761918/q%3D80_m%3D2000/v2?sig=78827cd6821ca7db2f84cff8844af4143e907a8ee8e72930257c4c2376857c55",
+    "links": [
+      "https://github.com/WingedP/Openword",
+      "https://openword-temp.netlify.app"
+    ],
+    "id": 4,
+    "type": "web",
+    "stacks": [
+      { "color": "blue", "name": "ReactJS" },
+      { "color": "green", "name": "MongoDB" },
+      { "color": "yellow", "name": "Express" },
+      { "color": "green", "name": "NodeJS" },
+      { "color": "gray", "name": "old" }
+    ],
+    "desc": {
+      "about": [
+        "About",
+        "Personal project (old). A website where users can exchange books (lending & borrowing for a set period of time). User can leave comments & rating."
+      ],
+      "techstack": [
+        "Tech stacks",
+        "ReactJS on front-end, NodeJS/Express for back-end and MongoDB as DB"
+      ],
+      "teamsize": ["Team's size", "1"],
+      "myposition": ["My position", "Web developer"],
+      "responsibilities": [
+        "Responsibilities",
+        [
+          "First CRUD web. Worked both front-end and back-end to learn the basics."
+        ]
+      ]
+    },
+    "images": [
+      "https://drscdn.500px.org/photo/1044761918/q%3D80_m%3D2000/v2?sig=78827cd6821ca7db2f84cff8844af4143e907a8ee8e72930257c4c2376857c55",
+      "https://drscdn.500px.org/photo/1044761919/q%3D80_m%3D2000/v2?sig=15454b29c8abc25098ecc6a70b38d46e5d73ff780e23a1c3b5e5781e8e4d19b3",
+      "https://drscdn.500px.org/photo/1044761920/q%3D80_m%3D2000/v2?sig=aaceccdb1c03a68e118a8c9b47722cedabeeb8d9eb6dcbfabdd338a23ea0d0a1",
+      "https://drscdn.500px.org/photo/1044761921/q%3D80_m%3D2000/v2?sig=1b7b9123116390d2732dd2f95a622130e6b8fb1e9520a86d16ecaa46c5ab5fbd"
+    ]
+  },
+
+  {
+    "name": "Cineplex",
+    "path": "pj_cineplex",
+    "thumbnail": "https://drscdn.500px.org/photo/1044782585/q%3D80_m%3D2000/v2?sig=1d496f9e77da590a6336bba878c0a3ba9096edb12e05dfbcc79bc9d9417bc7b5",
+    "links": [
+      "https://github.com/WingedP/Cineplex",
+      "https://cineplex.netlify.app"
+    ],
+    "id": 5,
+    "type": "web",
+    "stacks": [
+      { "color": "blue", "name": "ReactJS" },
+      { "color": "gray", "name": "old" }
+    ],
+    "desc": {
+      "about": [
+        "About",
+        "Personal project (old). Users can view movie's trailer. Movies can be filtered by popularity, rating, tags."
+      ],
+      "techstack": [
+        "Tech stacks",
+        "ReactJS for front-end, with public API from myopenDB"
+      ],
+      "teamsize": ["Team's size", "1"],
+      "myposition": ["My position", "Web developer"]
+    },
+    "images": [
+      "https://drscdn.500px.org/photo/1044782585/q%3D80_m%3D2000/v2?sig=1d496f9e77da590a6336bba878c0a3ba9096edb12e05dfbcc79bc9d9417bc7b5",
+      "https://drscdn.500px.org/photo/1044782588/q%3D80_m%3D2000/v2?sig=6c4cb473eb3e134c10c9c4f14403023fbad19e4761b9cf24891e1c07b0b7e68b",
+      "https://drscdn.500px.org/photo/1044782587/q%3D80_m%3D2000/v2?sig=42138a8189ac2bf0d6915f6826002fa7471e6c0b65a83fcef429c3bea4dc7d61",
+      "https://drscdn.500px.org/photo/1044782586/q%3D80_m%3D2000/v2?sig=f0f5da096f963afa0e20e4440c8f33cf451918a8a7995a033340de81c1ea6b69"
+    ]
+  },
+
+  {
+    "name": "MyWeather",
+    "path": "pj_myweather",
+    "thumbnail": "https://drscdn.500px.org/photo/1044875466/q%3D80_m%3D1000/v2?sig=e6982d984b321f33917ba2a8fc77482084023a2e7427a3ee87ba17fa008f3b5c",
+    "links": [
+      "https://myzweather.netlify.app/",
+      "https://github.com/WingedP/MyWeather"
+    ],
+    "id": 6,
+    "type": "mobile",
+    "stacks": [
+      { "color": "blue", "name": "ReactJS" },
+      { "color": "gray", "name": "old" }
+    ],
+    "desc": {
+      "about": [
+        "About",
+        "Personal project (old). View weather, time, humidity, and some random astronomy photo. API comes from Openweather. (Location needs to be enabled in order to view.)"
+      ],
+      "techstack": ["Tech stacks", "ReactJS for front-end."],
+      "teamsize": ["Team's size", "1"],
+      "myposition": ["My position", "Web developer"]
+    },
+    "images": []
+  }
+]
